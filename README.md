@@ -7,6 +7,8 @@ http://dogecoin.com/
 Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
 http://dogecoin.com/
 
+DogeCoin SOL experiment - Deployer: 66PV7Wz52Mrfoe6iScszs4Y3eTUwn3TJvt7ARuoirCo9
+
 ## License - Much license
 DogeCoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
